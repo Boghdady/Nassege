@@ -1,0 +1,31 @@
+<resources>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_closed">Close navigation drawer</string>
+    <string name="app_name">BottomNavigationTest</string>
+    <string name="title_main">Main</string>
+    <string name="title_our_services">Our Services</string>
+    <string name="title_about_us">About Us</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="title_other_services">Other Services</string>
+    <string name="title_consultation_services">Consultation Services</string>
+
+    <string name="service1">Intermediation in offering all requirements of planes’ owners</string>
+    <string name="service2">Sale, Rental and Leasing aircraft</string>
+    <string name="service3">Offering Services</string>
+    <string name="service31">. Refueling</string>
+    <string name="service32">. Refueling</string>
+    <string name="service4"></string>
+    <string name="service5"></string>
+    <string name="service6">All airlines permits to airlines and aircraft owners</string>
+
+    <string name="html">
+        <![CDATA[
+                   <h4>Review of Civil Aviation:</h4>
+             <ul>
+               <li>ll airlines permits to airlines and aircraft owners </li>
+               <li>Approval of time services for all flights (SLOT) </li>
+               <li>Safety management for full operational capability (FOC) </li>
+             </ul>
+        ]]>
+    </string>
+</resources>
