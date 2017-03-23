@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/boghdady/.android/build-cache/d5ded909b11eeedf868a8f9dfcc84a48fa5e1774/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /home/boghdady/.android/build-cache/7d60b579f5d86929a5fc6f835a3dc16b16b604ab/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/boghdady/.android/build-cache/e9411608204614f407612f5c3189a74991495fed/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/boghdady/.android/build-cache/752c4407d312d8190b4504661dfa482de65fed1b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/boghdady/.android/build-cache/32f895e35a29756130a0f7c6d59f7e7e76d5aa6e/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/boghdady/.android/build-cache/76d5aa4591e5bfb4b6052bcca69ad5a12ffcde15/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/boghdady/.android/build-cache/46f047595306a066f9da0e48304a28b1a46db5af/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/boghdady/.android/build-cache/80d7024d07b9c79b5f71da5ec8700de66792b20e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/boghdady/.android/build-cache/7f06f80450b75ce3caaf9dcc22b876c924fef5b9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/boghdady/.android/build-cache/93951fd32c0dd7a275d0b20b6e09b17ed1155628/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/boghdady/.android/build-cache/0079571d4808a4162922867a53514738489c7c9e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/boghdady/.android/build-cache/5d054084a527b37e11c4171494d610d7401edb03/output/AndroidManifest.xml:25:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] /home/boghdady/.android/build-cache/a89766a71dc2b3412f76833ef1122012ce07cf82/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:12:9-51
+	android:allowBackup
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:10:9-46
+	android:theme
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.index.Nassege.MainActivity
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:15:9-18:59
+	android:label
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:16:13-41
+activity#com.index.Nassege.Splash_Activity
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:19:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.index.Nassege.Activities.OurServices
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:26:19-57
+activity#com.index.Nassege.Activities.AboutUs
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:27:19-53
+activity#com.index.Nassege.Activities.ContactUS
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:28:19-55
+activity#com.index.Nassege.Activities.AircraftServices
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:29:19-62
+activity#com.index.Nassege.Activities.ConsultationServices
+ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:30:9-78
+	android:name
+		ADDED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml:30:19-66
+uses-sdk
+INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/boghdady/.android/build-cache/d5ded909b11eeedf868a8f9dfcc84a48fa5e1774/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /home/boghdady/.android/build-cache/7d60b579f5d86929a5fc6f835a3dc16b16b604ab/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/boghdady/.android/build-cache/e9411608204614f407612f5c3189a74991495fed/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/boghdady/.android/build-cache/752c4407d312d8190b4504661dfa482de65fed1b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/boghdady/.android/build-cache/32f895e35a29756130a0f7c6d59f7e7e76d5aa6e/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/boghdady/.android/build-cache/eca8b980d4a544a6c5461f426bd8048f46c172c9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/boghdady/.android/build-cache/76d5aa4591e5bfb4b6052bcca69ad5a12ffcde15/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/boghdady/.android/build-cache/46f047595306a066f9da0e48304a28b1a46db5af/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/boghdady/.android/build-cache/80d7024d07b9c79b5f71da5ec8700de66792b20e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/boghdady/.android/build-cache/7f06f80450b75ce3caaf9dcc22b876c924fef5b9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/boghdady/.android/build-cache/93951fd32c0dd7a275d0b20b6e09b17ed1155628/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/boghdady/.android/build-cache/0079571d4808a4162922867a53514738489c7c9e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/boghdady/.android/build-cache/5d054084a527b37e11c4171494d610d7401edb03/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.markushi:circlebutton:1.1] /home/boghdady/.android/build-cache/a89766a71dc2b3412f76833ef1122012ce07cf82/output/AndroidManifest.xml:7:5-44
+MERGED from [me.grantland:autofittextview:0.2.1] /home/boghdady/.android/build-cache/d636f645ccabe1fec7522c8071822a454483f1d1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.viewpagerindicator:library:2.4.1] /home/boghdady/.android/build-cache/5103d41c09a1e1b56a7cd0a3617742647b86ce4d/output/AndroidManifest.xml:3:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/boghdady/.android/build-cache/7d60b579f5d86929a5fc6f835a3dc16b16b604ab/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/AndroidManifest.xml

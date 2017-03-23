@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/title_main" />
+        <item
+            android:id="@+id/Nav_OurServices"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/title_our_services" />
+        <item
+            android:id="@+id/Nav_About_us"
+            android:icon="@drawable/ic_speaker_notes_black_24dp"
+            android:title="@string/title_about_us" />
+        <item
+            android:id="@+id/Nav_Contact_Us"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:title="@string/title_contact_us" />
+
+    </group>
+
+    <item android:title="@string/Communication">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_touch_app_black_24dp"
+                android:title="0544657011" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_local_post_office_black_24dp"
+                android:title="admin@ksa-2.net" />
+            <item
+                android:id="@+id/nav_sharee"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="مشاركة التطبيق " />
+        </menu>
+    </item>
+
+</menu>

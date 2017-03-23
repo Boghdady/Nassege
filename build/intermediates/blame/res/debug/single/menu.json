@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

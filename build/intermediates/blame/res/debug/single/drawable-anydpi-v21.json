@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notifications_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_settings_input_svideo_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings_input_svideo_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_speaker_notes_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_speaker_notes_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_home_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_local_post_office_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_local_post_office_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/boghdady/.android/build-cache/7d60b579f5d86929a5fc6f835a3dc16b16b604ab/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_contact_mail_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_contact_mail_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_airplanemode_active_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_airplanemode_active_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_healing_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_healing_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_laptop_windows_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_laptop_windows_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_share_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_shopping_cart_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_touch_app_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_touch_app_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_games_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_games_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_open_in_new_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_open_in_new_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_dashboard_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/boghdady/.android/build-cache/7d60b579f5d86929a5fc6f835a3dc16b16b604ab/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_local_airport_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_local_airport_black_24dp.xml"
+    },
+    {
+        "merged": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_create_black_24dp.xml",
+        "source": "/home/boghdady/AndroidStudioProjects/Ksaappp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_create_black_24dp.xml"
+    }
+]
